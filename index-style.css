@@ -1,0 +1,52 @@
+.text1{
+    font-family: "Jersey 10", serif;
+    color: aqua;
+    margin-top: 130px;
+    max-width: 720px;
+    margin-left: 380px;
+}
+
+.text2{
+    font-family: "Jersey 10", serif;
+    color: indigo;
+    margin-top: 50px;
+    max-width: 850px;
+    margin-left: 320px;
+}
+
+.image1{
+    width: 270px;
+    height: 210px;
+    display: block;
+    margin: 0 auto;
+}
+
+.card1{
+    width: 18rem;
+    margin: 0;
+}
+
+.card2{
+    width: 100%;
+    height: auto;
+}
+
+.card3{
+    width: 225%;
+    height: auto;
+}
+
+.footer{
+    background-color: darkred;
+    display: flex;
+    justify-content: center;
+}
+
+.footer2{
+    margin-top: 350px;
+    margin-left: 600px;
+}
+
+.texto3{
+    margin-left: 600px;
+}
