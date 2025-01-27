@@ -1,0 +1,95 @@
+body{
+    background-image: url(/Pagina-web/images/kinal.2.avif);
+    color: #FFFFFF;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-position: center;
+  }
+
+  .card2{
+    background-color: #FFFFFF;
+  }
+
+  .card4{
+    background-color: #FFFFFF;
+    margin-top: 120px;
+  }
+
+  .texto1{
+    max-width: 400px;
+    color: rgb(27, 27, 58);
+    justify-content: center;
+    font-style: oblique;
+    margin-left: 48px;
+  }
+
+  .card3{
+    background-color: #FFFFFF;
+  }
+  
+  .texto2{
+    max-width: 400px;
+    color: rgb(27, 27, 58);
+    justify-content: center;
+    font-style: oblique;
+    margin-left: 115px;
+  }
+
+  .texto3{
+    max-width: 1100px;
+    color: rgb(38, 38, 129);
+    justify-content: center;
+    font-style: oblique;
+    margin-left: 115px;
+  }
+
+  footer{
+    background-color: rgb(27, 27, 58);
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .card {
+    max-width: 500px;
+    height: 600px;
+  }
+
+  .card-title {
+    font-size: 6rem;
+    margin-bottom: 10px;
+  }
+
+  .card-text {
+    font-size: 1.8rem; 
+  }
+
+  .image3{
+    margin-top: 150px;
+    margin-left: -200px;
+  }
+
+  .image4{
+    margin-top: 100px;
+    margin-left: 200px;
+  }
+
+  .card5{
+    background-color: rgb(68, 68, 185);
+    background-size: auto;
+  }
+
+  .card6{
+    background-color: white;
+    height: 900px;
+  }
+
+  .card:hover {
+    transform: translateY(-40px);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+}
